@@ -1,0 +1,117 @@
+
+
+
+ .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    gap:7px;
+    
+  }
+  
+
+  .centered {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* width: 30vw; */
+    padding: 20px;
+    /* background-color: #eee; */
+    border-radius: 10px;
+   
+  }
+
+  .main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width:100%;
+    
+  }
+
+  .form-container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .login-button {
+    width: 100%; 
+    max-width: 200px;
+     margin-bottom:20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    /* background-color: aqua; */
+  }
+
+  .btn {
+    width: 26vw;
+    display: block;
+    padding: 0.7rem 0.5rem;
+    border-radius: 5px;
+    background-color: #4B56D2;
+    border: transparent;
+    color:white;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 30px;
+
+    
+  }
+
+  .box {
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+   
+  }
+  .field {
+    width:25vw;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid grey;
+    
+  }
+
+   
+
+  .outer-button {
+    display: flex;
+    justify-content: space-between;
+   width:26vw;
+   /* border: 2px solid black; */
+    
+  }
+
+  .google {
+    padding: 0.5rem;
+    font-size: 15px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+  .facebook {
+    padding: 0.5rem;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid grey;
+  }
+
+  .account {
+    display: flex;
+  }
+
+  .signup {
+    margin-left: 5px;
+  }
+
+   
