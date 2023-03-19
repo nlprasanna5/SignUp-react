@@ -7,8 +7,9 @@ import Form from './components/Register';
 function App() {
   return (
    <>
-   <Form/>
+  
    <Login/>
+   <Form/>
    </>
   );
 }
